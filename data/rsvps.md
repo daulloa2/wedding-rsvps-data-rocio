@@ -6,3 +6,4 @@
 | jose-luis-encarnacion | 2026-04-23 17:41:23 | Jose Luis Encarnacion | 2 | 0 | 2 | Sí |
 | leonardo-granda-y-esposa | 2026-04-23 17:43:30 | Leonardo Granda y esposa | 2 | 0 | 2 | Sí |
 | michael-paladines-y-esposa | 2026-04-23 17:48:00 | Michael Paladines y esposa | 2 | 0 | 2 | Sí |
+| victor-largo-y-familia | 2026-04-23 18:00:57 | Victor Largo y familia | 3 | 0 | 3 | Sí |
