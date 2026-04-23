@@ -501,8 +501,8 @@
             }
         },
         {
-            "id": "angel-moreno-y-esposo",
-            "nombreFamilia": "Angel Moreno y esposo",
+            "id": "angel-moreno-y-esposa",
+            "nombreFamilia": "Angel Moreno y esposa",
             "telefono": "0988154154",
             "invitados": {
                 "adult": 2,
@@ -775,9 +775,9 @@
             "nombreFamilia": "Dra. Gabriela Nacimba y esposo",
             "telefono": "",
             "invitados": {
-                "adult": 1,
+                "adult": 2,
                 "kids": 0,
-                "total": 1
+                "total": 2
             }
         },
         {
