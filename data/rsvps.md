@@ -13,3 +13,4 @@
 | dra-angie-cueva | 2026-04-23 19:11:56 | Dra. Angie Cueva | 1 | 0 | 1 | Sí |
 | ruben-machucha | 2026-04-23 19:13:29 | Ruben Machucha | 1 | 0 | 1 | Sí |
 | carlos-mauricio-tenesaca | 2026-04-23 19:17:05 | Carlos Mauricio Tenesaca | 1 | 0 | 1 | Sí |
+| jorge-maldonado-y-esposa | 2026-04-23 19:18:20 | Jorge Maldonado y esposa | 2 | 0 | 2 | Sí |
