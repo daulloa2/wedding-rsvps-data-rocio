@@ -29,3 +29,4 @@
 | ronal-rivera-y-pareja | 2026-04-24 08:51:31 | Ronal Rivera y pareja | 2 | 0 | 2 | Sí |
 | carmen-rivera-y-esposo | 2026-04-24 09:00:49 | Carmen Rivera y esposo | 2 | 0 | 2 | Sí |
 | bolivar-vivanco-y-familia | 2026-04-24 13:02:36 | Bolivar Vivanco y familia | 4 | 0 | 4 | Sí |
+| cristhian-roman-y-esposa | 2026-04-24 16:16:04 | Cristhian Roman y esposa | 2 | 0 | 2 | Sí |
