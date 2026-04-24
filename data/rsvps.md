@@ -17,3 +17,4 @@
 | giovanni-unamuno-y-esposa | 2026-04-23 19:21:36 | Giovanni Unamuno y esposa | 2 | 0 | 2 | Sí |
 | leonardo-sanchez-y-esposa | 2026-04-23 19:24:50 | Leonardo  Sanchez y esposa | 2 | 0 | 2 | Sí |
 | daniel-mendoza-y-familia | 2026-04-23 19:31:26 | Daniel Mendoza y familia | 4 | 0 | 4 | Sí |
+| oscar-herrera-y-esposa | 2026-04-23 19:34:33 | Oscar Herrera y esposa | 2 | 0 | 2 | Sí |
