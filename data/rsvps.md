@@ -20,3 +20,4 @@
 | oscar-herrera-y-esposa | 2026-04-23 19:34:33 | Oscar Herrera y esposa | 2 | 0 | 2 | Sí |
 | victor-roman-y-familia | 2026-04-23 19:37:31 | Victor Roman y familia | 3 | 0 | 3 | Sí |
 | max-encalada-y-familia | 2026-04-23 19:44:23 | Max Encalada y familia | 3 | 0 | 3 | Sí |
+| victor-plaza-y-esposa | 2026-04-23 19:45:03 | Victor Plaza y esposa | 2 | 0 | 2 | Sí |
