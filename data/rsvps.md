@@ -15,3 +15,4 @@
 | carlos-mauricio-tenesaca | 2026-04-23 19:17:05 | Carlos Mauricio Tenesaca | 1 | 0 | 1 | Sí |
 | jorge-maldonado-y-esposa | 2026-04-23 19:18:20 | Jorge Maldonado y esposa | 2 | 0 | 2 | Sí |
 | giovanni-unamuno-y-esposa | 2026-04-23 19:21:36 | Giovanni Unamuno y esposa | 2 | 0 | 2 | Sí |
+| leonardo-sanchez-y-esposa | 2026-04-23 19:24:50 | Leonardo  Sanchez y esposa | 2 | 0 | 2 | Sí |
