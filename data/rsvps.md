@@ -9,3 +9,4 @@
 | victor-largo-y-familia | 2026-04-23 18:00:57 | Victor Largo y familia | 3 | 0 | 3 | Sí |
 | david-silva-y-esposa | 2026-04-23 18:45:12 | David Silva y esposa | 2 | 0 | 2 | Sí |
 | marina-rivera | 2026-04-23 19:09:10 | Marina Rivera | 1 | 0 | 1 | Sí |
+| bayron-saritama-y-familia | 2026-04-23 19:10:22 | Bayron Saritama y familia | 3 | 0 | 3 | Sí |
