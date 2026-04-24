@@ -24,3 +24,4 @@
 | vicente-rivera-y-familia | 2026-04-23 20:12:31 | Vicente Rivera y familia | 3 | 0 | 3 | Sí |
 | dra-yohana-campoverde | 2026-04-23 20:44:31 | Dra. Yohana Campoverde | 1 | 0 | 1 | Sí |
 | hernan-rivera-y-familia | 2026-04-23 21:14:00 | Hernan Rivera y familia | 3 | 0 | 3 | Sí |
+| jairo-vivanco-y-esposa | 2026-04-23 21:32:14 | Jairo Vivanco y esposa | 2 | 0 | 2 | Sí |
