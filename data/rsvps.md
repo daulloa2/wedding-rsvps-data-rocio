@@ -31,3 +31,4 @@
 | bolivar-vivanco-y-familia | 2026-04-24 13:02:36 | Bolivar Vivanco y familia | 4 | 0 | 4 | Sí |
 | cristhian-roman-y-esposa | 2026-04-24 16:16:04 | Cristhian Roman y esposa | 2 | 0 | 2 | Sí |
 | patricia-rivera-y-familia | 2026-04-24 16:49:02 | Patricia Rivera y familia | 2 | 0 | 2 | Sí |
+| franco-roman-y-esposa | 2026-04-24 16:55:31 | Franco Roman y esposa | 2 | 0 | 2 | Sí |
