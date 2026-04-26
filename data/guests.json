@@ -605,9 +605,9 @@
             "nombreFamilia": "Mercedes Encalada",
             "telefono": "0959620955",
             "invitados": {
-                "adult": 1,
+                "adult": 3,
                 "kids": 0,
-                "total": 1
+                "total": 3
             }
         },
         {
