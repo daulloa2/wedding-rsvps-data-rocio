@@ -11,6 +11,26 @@
             }
         },
         {
+            "id": "carlos-rivera-y-esposa",
+            "nombreFamilia": "Carlos Rivera y esposa",
+            "telefono": "",
+            "invitados": {
+                "adult": 2,
+                "kids": 0,
+                "total": 2
+            }
+        },
+        {
+            "id": "junior-renteria",
+            "nombreFamilia": "Junior Rentería",
+            "telefono": "",
+            "invitados": {
+                "adult": 1,
+                "kids": 0,
+                "total": 1
+            }
+        },
+        {
             "id": "ronal-rivera-y-pareja",
             "nombreFamilia": "Ronal Rivera y pareja",
             "telefono": "",
