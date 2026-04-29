@@ -35,3 +35,4 @@
 | victor-cuerva-y-esposa | 2026-04-25 00:00:09 | Victor Cuerva y esposa | 2 | 0 | 2 | Sí |
 | carlos-encalada-y-familia | 2026-04-25 17:13:42 | Carlos Encalada y familia | 4 | 0 | 4 | Sí |
 | mercedes-encalada | 2026-04-25 21:29:25 | Mercedes Encalada | 1 | 0 | 1 | Sí |
+| dra-isabel-sagnay | 2026-04-28 20:39:42 | Dra. Isabel Sagñay | 1 | 0 | 1 | Sí |
