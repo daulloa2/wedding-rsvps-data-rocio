@@ -35,9 +35,9 @@
             "nombreFamilia": "Jorge Encalada y familia",
             "telefono": "",
             "invitados": {
-                "adult": null,
+                "adult": 0,
                 "kids": 0,
-                "total": null
+                "total": 0
             }
         },
         {
